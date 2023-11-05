@@ -1,0 +1,25 @@
+{
+ "minecraft:block_list": {
+    "definition": {
+      "components": {
+        "minecraft:material_instances": {
+          "0": {
+            "ambient_occlusion": true,
+            "face_dimming": true,
+            "tint_index": 0
+          }
+        }
+      }
+    },
+    "blocks": {
+      "brick": {
+        "component": "minecraft:material_instances",
+        "material_instance": "brick"
+      },
+      "cobblestone": {
+        "component": "minecraft:material_instances",
+        "material_instance": "cobblestone"
+      },
+      "oak_planks": {
+        "component": "minecraft:material_instances",
+        "material_instance
